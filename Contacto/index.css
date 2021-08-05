@@ -227,3 +227,9 @@ figure{
         padding-bottom: 20px;
     }
 }
+
+@media screen and (max-width: 400px) {
+    main{
+        margin-top: 25%;
+    }
+}

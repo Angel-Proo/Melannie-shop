@@ -333,3 +333,9 @@ ul{
         border-bottom-left-radius: 20px;
     }
 }
+
+@media screen and (max-width: 400px) {
+    main{
+        margin-top: 25%;
+    }
+}
